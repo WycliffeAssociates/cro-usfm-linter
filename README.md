@@ -1,1 +1,1 @@
-# cro-usfm-linter
+# USFM Linter Prototype
